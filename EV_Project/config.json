@@ -1,0 +1,26 @@
+{
+  "allowed_columns": [
+    "VIN (1-10)",
+    "County",
+    "City",
+    "State",
+    "Postal Code",
+    "Model Year",
+    "Make",
+    "Model",
+    "Electric Vehicle Type",
+    "Clean Alternative Fuel Vehicle (CAFV) Eligibility",
+    "Electric Range",
+    "Base MSRP",
+    "Legislative District",
+    "DOL Vehicle ID",
+    "Vehicle Location",
+    "Electric Utility",
+    "2020 Census Tract",
+    "Counties",
+    "Congressional Districts",
+    "WAOFM - GIS - Legislative District Boundary",
+    "created_at",
+    "updated_at"
+  ]
+}
