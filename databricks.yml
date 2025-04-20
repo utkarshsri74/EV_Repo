@@ -1,0 +1,19 @@
+# This is a Databricks asset bundle definition for EV_Repo.
+# The Databricks extension requires databricks.yml configuration file.
+# See https://docs.databricks.com/dev-tools/bundles/index.html for documentation.
+
+bundle:
+  name: EV_Repo
+
+targets:
+  dev:
+    mode: development
+    default: true
+    workspace:
+      host: https://adb-3776980155506367.7.azuredatabricks.net
+
+  ## Optionally, there could be 'staging' or 'prod' targets here.
+  #
+  # prod:
+  #   workspace:
+  #     host: https://adb-3776980155506367.7.azuredatabricks.net
